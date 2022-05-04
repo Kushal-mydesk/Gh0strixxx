@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gh0strixxx
+- 👋 Hi, I’m @Kushal
 - 👀 I’m interested in ... Java
 - 🌱 I’m currently learning ...Full_Stack Development
 - 💞️ I’m looking to collaborate on ...Google
